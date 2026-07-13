@@ -1,0 +1,5 @@
+name: HaloDunia
+version: 1.0.0
+main: halodunia\Main
+api: [5.0.0]
+author: Azsdv
